@@ -7,7 +7,7 @@ WorldWise is an interactive web application designed to track your travel advent
 ![Static Badge](https://img.shields.io/badge/status-online-brightgreen)
 
 ## Quick Look
-<img src="https://github.com/user-attachments/assets/89d73842-7bc6-4149-88ce-006fe39e309d" width="700" alt="WorldWise App Demo" style="border-left: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;">
+<img src="https://github.com/user-attachments/assets/76949f7b-4e99-4084-8401-e9ada1702629" width="700" alt="WorldWise App Demo" style="border-left: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;">
 
 ## Table of Content
 - [Project Title and Description](#project-title-and-description)
