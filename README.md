@@ -104,7 +104,7 @@ After starting, go to http://localhost:3000 in your web browser.
 
 ## Demo (link)
 
-Check out the live demo of the application here.
+Check out the live demo of the application [here](https://worldmapv1.netlify.app/).
 
 ## Project Structure
 
