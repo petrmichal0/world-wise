@@ -163,6 +163,12 @@ WorldWise/
 
 ## Technologies Used
 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![React Router Badge](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#)
+[![Leaflet Badge](https://img.shields.io/badge/-React_Leaflet-199900?style=for-the-badge&labelColor=black&logo=leaflet&logoColor=199900)](#)
+[![JSON Server Badge](https://img.shields.io/badge/-JSON_Server-323330?style=for-the-badge&labelColor=black&logo=json&logoColor=white)](#)
+[![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
+
 ### Third-Party Libraries
 - **React Router**: For navigating between different views in the app.
 - **React-Leaflet**: For displaying interactive maps.
