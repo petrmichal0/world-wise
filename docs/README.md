@@ -106,7 +106,7 @@ Check out the live demo of the application [here](https://worldmapv1.netlify.app
 
 ## Project Structure
 
-```bash
+```css
 WorldWise/
 ├── public/
 │   ├── favicon.ico
