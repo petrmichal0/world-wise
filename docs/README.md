@@ -36,12 +36,12 @@ WorldWise is an interactive web application designed to track your travel advent
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/petrmichal0/worldwise.git
+    git clone https://github.com/petrmichal0/world-wise.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd worldwise
+    cd world-wise
     ```
 
 3. Install dependencies:
@@ -170,4 +170,4 @@ WorldWise/
 - **JSON Server**: For mocking a RESTful backend.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
